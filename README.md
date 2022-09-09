@@ -11,7 +11,7 @@ This workshop aims to showcase how to modernize applications for solving the cha
 
 Take a look at the [Konveyor Community’s Application Modernization Report for 2022](https://www.konveyor.io/modernization-report/) to understand how users and organizations define application modernization as well as top reasons for modernization.
 
-![App Mod Report 2022](images/app-mod-report-2022.png)
+![Application Transformation Model](images/app-transformation-model.png)
 
 ## Key Takeaways
 
