@@ -2,7 +2,7 @@
 
 This demo aims to address the need for a DevSecOps framework that accelerates development, provides easy deployment options, and allows for quick and easy way to add new product features and extensions to enterprise applications.
 
-## ##FFBD33 Business Goals
+## Business Goals
 
 1) Improve Customer Satisfaction
 2) Improve Employee Satisfaction
