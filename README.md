@@ -10,7 +10,7 @@ This demo aims to address the need for a DevSecOps framework that accelerates de
 4) Improve Revenue and Cost Streams
 5) Increase Market Share/Leadership position
 
-## Business to IT Goal Alignment
+## Business to IT Goal Alignment (IT Value)
 
 The demo will illustrate the following IT goals via specific examples listed below:
 
@@ -24,8 +24,10 @@ Take a look at the following chart to understand how users and organizations def
 
 ![Application Transformation Model](images/app-transformation-model.png)
 
-## Key Takeaways
+## Key Takeaways Business Values
 
+* Reduce time to market by accelerating development, testing and deployment
+* Implement standardization and compliance
 * Modernization has a broad spectrum of definitions, but containerizing and automation rank high. 
 * The containerizing is a broad enough trend to encompass multiple strategies including refactoring with Microservices. 
 * Increasing scalability and reliability are key reasons for modernization.
