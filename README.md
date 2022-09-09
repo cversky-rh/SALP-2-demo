@@ -1,5 +1,3 @@
-<h1 align="center"><a href="./instructions/1-introduction.adoc">Start here!</a></h1>
-
 # Demo for Modern Application Transformation Process
 
 This demo aims to address the need for a DevSecOps framework that accelerates development, provides easy deployment options, and allows for quick and easy way to add new product features and extensions to enterprise applications.
