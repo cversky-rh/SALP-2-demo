@@ -1,15 +1,28 @@
 <h1 align="center"><a href="./instructions/1-introduction.adoc">Start here!</a></h1>
 
-# Hands-on Labs for Modern Application Development
+# Demo for Modern Application Transformation Process
 
-This workshop aims to showcase how to modernize applications for solving the challenges faced by existing applications in the current landscape as below:
+This demo aims to address the need for a DevSecOps framework that accelerates development, provides easy deployment options, and allows for quick and easy way to add new product features and extensions to enterprise applications.
 
-* **Integration**: Challenging to leverage new cloud based services
-* **Scalability**: Not able to meet web scale due to data-centric architecture
-* **Reliability**: Unable to quickly deploy new capabilities
-* **Developer productivity and Business Agility**: Often low in comparison to cloud native applications
+## Business Goals
 
-Take a look at the [Konveyor Community’s Application Modernization Report for 2022](https://www.konveyor.io/modernization-report/) to understand how users and organizations define application modernization as well as top reasons for modernization.
+1) Improve Customer Satisfaction
+2) Improve Employee Satisfaction
+3) Improve Culture break down Silos between Dev, Ops and Security Teams
+4) Improve Revenue and Cost Streams
+5) Increase Market Share/Leadership position
+
+## Business to IT Goal Alignment
+
+The demo will illustrate the following IT goals via specific examples listed below:
+
+* **Integration**:  Self-Service Capability of Application Framework
+* **Deployment**:   Ease of Application Deployments (net-new or releases)
+* **Scalability**:  On-Demand Application scaling
+* **Reliability**:  Container Security Regardless of Location (on-prem or cloud)
+* **Developer productivity and Business Agility**: Automate CI/CD Pipeline Automation
+
+Take a look at the following chart to understand how users and organizations define application transformation model as well as top reasons for modernization.
 
 ![Application Transformation Model](images/app-transformation-model.png)
 
