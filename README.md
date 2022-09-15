@@ -1,3 +1,14 @@
+## Overall Guidance
+
+This git repo has been created as part of a larger overall framework that will allow less technical users to demonstrate the business value of our products.  The framework consists of three artifacts:
+
+1) A Miro Board that specifies:
+   * Business Value Statement
+   * A Specific Scenario that should be addressed
+   * The IT Value that should be demonstrated by this demo
+2) An Asana Task List that provides step-by-step details on the process that the account team should go through prior to embarking on the demo
+3) A Business Value Demo
+
 # Demo for Modern Application Transformation Process
 
 This demo aims to address the need for a DevSecOps framework that accelerates development, provides easy deployment options, and allows for quick and easy way to add new product features and extensions to enterprise applications.
@@ -32,20 +43,13 @@ Take a look at the following chart to understand how users and organizations def
 * The containerizing is a broad enough trend to encompass multiple strategies including refactoring with Microservices. 
 * Increasing scalability and reliability are key reasons for modernization.
 
-## Technology Stack
+## Demo Details
 
-* Red Hat Enterprise Virtualization
-* Red Hat Runtimes (Quarkus, Spring Boot, Node.js, Tomcat)
-* Red Hat OpenShift (Pipeline, GitOps, Virtualization)
-* Oracle Database and PostgreSQL
+Environment Overview (link)
+Demo Details (link)
 
-## Instruction
 
-1. [Introduction](instructions/1-introduction.adoc)
-2. [Assessment](instructions/2-assessment.adoc)
-3. [Analyze](instructions/3-analyze.adoc)
-4. [Refactor](instructions/4-refactor.adoc)
-5. [Rehost](instructions/5-rehost.adoc)
-6. [Deploy to Kubernetes](instructions/6-deploy-to-kubernetes.adoc)
-7. [Enhance Applications with Managed Services](instructions/7-enhance-apps.adoc)
-8. [Summary](instructions/8-summary.adoc)
+
+
+
+
